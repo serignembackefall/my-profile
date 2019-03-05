@@ -1,0 +1,61 @@
+p.aa{
+	color: blue;
+
+}
+
+
+p.bb{
+	color: blue;
+}
+body{
+	background:url(htfill(white):sharpen(https://www.bigotti.ro/img/products/a/4/3/f/e/4/VBCSBWFAB55V2999250-1.jpg) no-repeat;
+	background-size: 1000px;
+
+}
+
+h1.headline{
+	font-size: 50px;
+	padding: 50px;
+}
+
+nav.menu-nav ul li.btn{
+list-style-type: none;
+}
+
+nav.menu-nav ul li.btn{
+	display: inline-block;
+}
+
+nav.menu-nav ul li.btn a{
+	color: white;
+	background-color: red;
+	text-decoration: none;
+	padding: 10px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: red;
+	background-color: white;
+}
+div#content{
+	background-color: blue;
+}
+
+
+div#content div{
+	display: inline-block;
+	width: 48%;
+}
+
+div#content div.leftbox{
+background-color: yellow;
+vertical-align: top;
+}
+
+div#content div.leftbox h1, p{
+	margin: 10px;
+}
+
+div#content div.rightbox{
+background-color: green;
+}
